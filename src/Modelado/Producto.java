@@ -8,7 +8,6 @@ import java.util.Scanner;
 
 public class Producto {
     private int idProd;
-    private String tienda;
     private String nombreProducto;
     private String marca;
     private String timeDeUso;
